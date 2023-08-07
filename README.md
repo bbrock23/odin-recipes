@@ -13,7 +13,7 @@
 
 
   <h1>Final Thoughts:<h1> 
-  <p>This was my first assignment and it came with lots of learning opertunity. I got to use the Terminal to open, make, and edit files and directories. Within html, I was able to make the boilerplate, paragraphs, list (ordered and unordered), add images, and link together web pages. I think I did a good job organizing my html code and as a result, made good beginner recipe pages.</p>
+  <p>This was my first assignment and it came with lots of learning opertunity. I got to use the Terminal to open, make, and edit files and directories. Within html, I was able to make the boilerplate, paragraphs, list (ordered and unordered), add images, and link together web pages. I think I did a good job organizing my html code and as a result, made a good beginner recipe pages.</p>
 
 
 

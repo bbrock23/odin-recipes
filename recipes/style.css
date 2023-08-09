@@ -1,0 +1,23 @@
+body { 
+    text-align: center;
+    background-color: #83b2d0;
+    font-family: Verdana;
+}
+#ingredients {
+    text-align: left;
+}
+h2{
+    text-align: left;
+    text-decoration: underline;
+}
+#directions {
+    text-align: left;
+}
+.food-img{ 
+    border: 5px solid black; 
+    border-radius: 25px;
+}
+#ml{ 
+    width: 600px;
+    height: 500px;
+}

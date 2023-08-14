@@ -3,12 +3,21 @@ body {
     background-color: #83b2d0;
     font-family: Verdana;
 }
-#ingredients {
+.paragraph2 {
+    margin-bottom: 50px;
+}
+.ingredients{
+    margin-left: 40px;
+}
+#ingredients{
     text-align: left;
 }
 h2{
     text-align: left;
     text-decoration: underline;
+}
+.directions {
+    margin-left: 40px;
 }
 #directions {
     text-align: left;

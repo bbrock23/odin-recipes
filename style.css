@@ -9,6 +9,9 @@ body{
 .intro{
     text-align: left;
 }
+h2{
+    margin: 30px;
+}
 #lasagna{ 
     border: 5px solid black; 
     

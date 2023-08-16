@@ -4,16 +4,37 @@ body{
     font-family: Verdana;
 }
 .recipe-list {
-    text-align: left;
+    border: 5px solid #ffcc5c;
+    display: flex;
+    margin-bottom: 100px;
+    
+    
+}
+.recipe-list > div:nth-child(1){
+    border:5px solid #ffcc5c;
+    flex:1 1 200px; 
+    padding: 10px;
+    margin-left: -40px;
+}
+.recipe-list > div:nth-child(2){
+    border:5px solid #ffcc5c;
+    flex:1 1 200px; 
+    padding: 10px;
+}
+.recipe-list > div:nth-child(3){
+    border: 5px solid #ffcc5c;
+    flex:1 1 200px; 
+    padding: 10px;
 }
 .intro{
-    text-align: left;
+    text-align: center;
+    margin-bottom: 30px;
 }
-h2{
-    margin: 30px;
-}
+
 #lasagna{ 
     border: 5px solid black; 
+    height: 350px; 
+    width: 450px; 
     
 
 }
